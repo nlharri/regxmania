@@ -19,8 +19,8 @@ Demo: https://nlharri.github.io/thecodinghype/regxmania/index.html
 The app was developed using React.js.
 
 ## Useful links
-https://www.regular-expressions.info
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+https://www.regular-expressions.info  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions  
 http://man7.org/linux/man-pages/man7/regex.7.html
 
 ###### This project is licensed under the MIT Open Source License
